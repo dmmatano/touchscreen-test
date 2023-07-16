@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Display Test Gertec</string>
+    <string name="passou">PASSOU</string>
+    <string name="timeout">TIMEOUT: o teste falhou</string>
+    <string name="teste_concluido">Teste concluído com sucesso!</string>
+    <string name="iniciar_teste">INICIAR TESTE</string>
+</resources>
